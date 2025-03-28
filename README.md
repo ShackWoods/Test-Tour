@@ -6,12 +6,14 @@
 # Rounds
 
 ## T4
+
 | **Player 1** | **WINNER** | **Player 2** |
 |---|:---:|---:|
 | Person B |  | Person F |
 | ***Person H*** | <----- | ~~Person A~~ |
 
 ## R3
+
 | **Player 1** | **WINNER** | **Player 2** |
 |---|:---:|---:|
 | ***Person B*** | <----- | Person H |
@@ -20,6 +22,7 @@
 | ~~***Person G***~~ | <----- | BYE |
 
 ## R2
+
 | **Player 1** | **WINNER** | **Player 2** |
 |---|:---:|---:|
 | Person A | -----> | ***Person H*** |
@@ -28,6 +31,7 @@
 | ~~Person E~~ | -----> | ***Person F*** |
 
 ## R1
+
 | **Player 1** | **WINNER** | **Player 2** |
 |---|:---:|---:|
 | ***Person A*** | <----- | Person E |
